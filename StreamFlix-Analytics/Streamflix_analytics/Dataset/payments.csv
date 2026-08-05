@@ -1,0 +1,41 @@
+payment_id,user_id,plan_id,amount,payment_date,payment_method,payment_status
+1,1,1,199.0,2025-05-04,Net Banking,Failed
+2,2,3,399.0,2025-02-17,Net Banking,Pending
+3,3,2,299.0,2025-03-22,Net Banking,Success
+4,4,3,399.0,2025-02-16,Net Banking,Failed
+5,5,3,399.0,2025-06-14,UPI,Success
+6,6,1,199.0,2025-04-26,Debit Card,Pending
+7,7,2,299.0,2025-01-12,Net Banking,Success
+8,8,2,299.0,2025-05-20,UPI,Success
+9,9,3,399.0,2025-03-21,Credit Card,Failed
+10,10,1,199.0,2025-04-09,Net Banking,Success
+11,11,1,199.0,2025-01-07,Net Banking,Failed
+12,12,3,399.0,2025-04-28,Net Banking,Success
+13,13,2,299.0,2025-06-11,Debit Card,Success
+14,14,3,399.0,2025-05-29,UPI,Success
+15,15,2,299.0,2025-01-25,Credit Card,Success
+16,16,1,199.0,2025-04-07,UPI,Pending
+17,17,3,399.0,2025-05-12,UPI,Failed
+18,18,1,199.0,2025-05-24,UPI,Success
+19,19,1,199.0,2025-04-23,UPI,Success
+20,20,1,199.0,2025-04-27,Net Banking,Success
+21,21,2,299.0,2025-05-05,UPI,Success
+22,22,2,299.0,2025-05-17,Credit Card,Pending
+23,23,3,399.0,2025-06-13,UPI,Success
+24,24,1,199.0,2025-01-08,Credit Card,Success
+25,25,2,299.0,2025-06-29,Debit Card,Success
+26,26,1,199.0,2025-03-28,Debit Card,Success
+27,27,3,399.0,2025-02-27,Net Banking,Failed
+28,28,2,299.0,2025-01-06,Net Banking,Failed
+29,29,2,299.0,2025-03-13,Net Banking,Success
+30,30,1,199.0,2025-01-18,Net Banking,Success
+31,23,3,399.0,2025-12-05,Net Banking,Success
+32,16,2,299.0,2025-08-04,Debit Card,Success
+33,3,1,199.0,2025-12-26,Net Banking,Success
+34,8,3,399.0,2025-10-10,Credit Card,Success
+35,7,3,399.0,2025-10-26,UPI,Success
+36,18,1,199.0,2025-07-24,Debit Card,Success
+37,15,3,399.0,2025-12-07,Net Banking,Success
+38,10,2,299.0,2025-10-12,Credit Card,Success
+39,19,2,299.0,2025-08-18,UPI,Success
+40,5,1,199.0,2025-08-23,Debit Card,Success
